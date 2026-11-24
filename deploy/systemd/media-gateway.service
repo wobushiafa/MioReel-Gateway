@@ -1,0 +1,25 @@
+[Unit]
+Description=mioreel-gateway
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=media-gw
+Group=media-gw
+WorkingDirectory=/opt/media-gateway
+EnvironmentFile=-/etc/media-gateway/env
+ExecStart=/opt/media-gateway/bin/media-gateway --config /etc/media-gateway/config.json
+Restart=always
+RestartSec=3
+KillSignal=SIGTERM
+TimeoutStopSec=15
+
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ReadWritePaths=/opt/media-gateway/data
+LimitNOFILE=65535
+
+[Install]
+WantedBy=multi-user.target

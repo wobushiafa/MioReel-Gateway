@@ -1,0 +1,167 @@
+{
+  "capturedAt": "2026-11-16T05:30:28.211Z",
+  "series": {
+    "vod_id": "7701678491724418073",
+    "vod_name": "二婚嫁对人，前夫悔破防",
+    "remarks": "全70集"
+  },
+  "episode": {
+    "playerRoute": "https://hongguoduanju.com/player/7701678491724418073/7701680675979545625",
+    "line": "第1集"
+  },
+  "resolve": {
+    "parse": 0,
+    "url": "https://v5-reading-video.qznovelvod.com/9fd7ad299396469a6548479331e566ab/6afae9ff/video/tos/cn/tos-cn-v-6fcc8e/oIdBRkEfvRYqFAD7Q3Ou5H6DgEWrCfgYyq40Ia/?a=8662&ch=0&cr=7&dr=0&er=1&lr=default&cd=0%7C0%7C0%7C1&cv=1&bt=410&cs=4&ds=4&eid=59904&ft=qAQiXHRhGG.rhFE0S~Y5Sgx0ZDnTYhJaOB5l15KLo0u-uBqBVf9m99I~p4Pbo-o2OSYVc&mime_type=video_mp4&qs=0&rc=NzlkZmllNTVoN2RnNDw3O0BpandvbXc5cmt3ZTMzNGhoM0BiLzViLTRjXzMxXjQ1Yl8uYSNfMS9wMmQ0b2RhLS1kXy9zcw%3D%3D&ult=695&btag=c0000e00028000&cdn_type=1&dy_q=1794807027&feature_id=bdd505cd55b47341623c9e720b7b5e35&l=2026111613302702EAFCFD041D16FF084A&n80=1&n80_dm=bjk4LXYtcmVhZGluZ3ZpZGVvLnF6bm92ZWx2b2QuY29t&n80_tk=ebaf742bd90e6d0a7074a13d6c0e2fea&pdp=online_xy&pwid=297&req_cdn_type=r",
+    "header": {
+      "User-Agent": "com.phoenix.read/71332 (Linux; U; Android 16; zh_CN; 25053RT47C; Build/BP2A.250605.031.A3; Cronet/TTNetVersion:04657795 2026-01-23 QuicVersion:c67e9834 2025-09-08)"
+    },
+    "decryptionKey": "982735c47051044342ede4ef5d3e8cb5",
+    "quality": 1080,
+    "qualities": [
+      1080,
+      720,
+      540,
+      480,
+      360
+    ],
+    "expiresAt": 1794807328211,
+    "expiresAtISO": "2026-11-16T05:35:28.211Z",
+    "mediaBytes": 9131576,
+    "episodeId": "7701680675979545625",
+    "error": ""
+  },
+  "requests": [
+    {
+      "at": "2026-11-16T05:30:25.086Z",
+      "method": "POST",
+      "url": "https://log.snssdk.com/service/2/device_register/?aid=8662&app_name=novelread",
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "User-Agent": "com.phoenix.read/71332 (Linux; U; Android 16; zh_CN; 25053RT47C; Build/BP2A.250605.031.A3; Cronet/TTNetVersion:04657795 2026-01-23 QuicVersion:c67e9834 2025-09-08)"
+      },
+      "body": "{\"magic_tag\":\"ss_app_log\",\"header\":{\"aid\":8662,\"app_name\":\"novelread\",\"package\":\"com.phoenix.read\",\"app_version\":\"7.3.9.32\",\"version_code\":73932,\"update_version_code\":73932,\"manifest_version_code\":73932,\"sdk_version\":\"6.18.0\",\"device_platform\":\"android\",\"os\":\"Android\",\"os_version\":\"16\",\"os_api\":36,\"device_model\":\"25053RT47C\",\"device_brand\":\"Redmi\",\"device_manufacturer\":\"Xiaomi\",\"density_dpi\":520,\"display_density\":\"mdpi\",\"resolution\":\"1280x2772\",\"language\":\"zh\",\"timezone\":8,\"access\":\"wifi\",\"channel\":\"update_64\",\"cdid\":\"5ecfd14f-e6e9-42f8-89ac-bb8e9ab842aa\",\"openudid\":\"8837d5baab18e63f\"},\"_gen_time\":1794807025084}",
+      "status": 200,
+      "responseContentType": "application/json"
+    },
+    {
+      "at": "2026-11-16T05:30:25.414Z",
+      "method": "GET",
+      "url": "https://reading.snssdk.com/reading/bookapi/bookmall/tab/v?ac=wifi&channel=update_64&aid=8662&app_name=novelread&version_code=73932&version_name=7.3.9.32&device_platform=android&os=android&ssmix=a&device_type=25053RT47C&device_brand=Redmi&language=zh&os_api=36&os_version=16&manifest_version_code=73932&resolution=1280*2772&dpi=520&update_version_code=73932&host_abi=arm64-v8a&dragon_device_type=phone&pv_player=73932&compliance_status=0&need_personal_recommend=1&player_so_load=1&is_android_pad_screen=0&iid=4069772115858074&device_id=4069772115853978&cdid=5ecfd14f-e6e9-42f8-89ac-bb8e9ab842aa&tab_type=8&tab_index=0&offset=0&ts=1794807025&_rticket=1794807025401",
+      "headers": {
+        "User-Agent": "com.phoenix.read/71332 (Linux; U; Android 16; zh_CN; 25053RT47C; Build/BP2A.250605.031.A3; Cronet/TTNetVersion:04657795 2026-01-23 QuicVersion:c67e9834 2025-09-08)",
+        "Accept": "application/json; charset=utf-8,application/x-protobuf",
+        "Content-Type": "application/json; charset=UTF-8",
+        "x-xs-from-web": "0",
+        "x-ss-req-ticket": "1794807025401",
+        "x-tt-request-tag": "t=0;n=0",
+        "sdk-version": "2",
+        "passport-sdk-version": "50561",
+        "x-vc-bdturing-sdk-version": "3.7.2.cn",
+        "x-gorgon": "840442054001aee852d8610ef566a9d08a5f2267716528042375",
+        "x-khronos": "1794807025",
+        "x-ladon": "avqU8Q==",
+        "x-argus": "8ZT6ag==",
+        "x-helios": "RlrHXAWVTqFDp9zHrDN39GsWksipER6m8mL3bzsClpzpojd0",
+        "x-medusa": "9JT6atzftaC44fcpziFURtP5Njw/igABbEoq1TpygekFmLG0b9y7oKF1QzHXT2c8e11AHKs40vg3A0yrp7Bi/jyUx6F+EdBa8kxCL+PdfFrlIEuA5YScjyFERs7A4g+qqbpwpXxzo2ZEH8szP5jgrMLrBKhznQBuvOGmYjVsqzJeQtt8/8ygnSvvAXLuHAV4gzSneDIxiSRhiKyHHj7F8ZXfEYaLZqYOXhlYS89h/fTz95V7zgybLBuiRRg9eDv43k3f+t9Nf6YT",
+        "x-tt-dt": "",
+        "lc": "101"
+      },
+      "body": null,
+      "status": 200,
+      "responseContentType": "application/json; charset=utf-8"
+    },
+    {
+      "at": "2026-11-16T05:30:26.800Z",
+      "method": "GET",
+      "url": "https://reading.snssdk.com/reading/bookapi/bookmall/cell/change/v?ac=wifi&channel=update_64&aid=8662&app_name=novelread&version_code=73932&version_name=7.3.9.32&device_platform=android&os=android&ssmix=a&device_type=25053RT47C&device_brand=Redmi&language=zh&os_api=36&os_version=16&manifest_version_code=73932&resolution=1280*2772&dpi=520&update_version_code=73932&host_abi=arm64-v8a&dragon_device_type=phone&pv_player=73932&compliance_status=0&need_personal_recommend=1&player_so_load=1&is_android_pad_screen=0&iid=4069772115858074&device_id=4069772115853978&cdid=5ecfd14f-e6e9-42f8-89ac-bb8e9ab842aa&cell_id=6952850996422770718&tab_type=8&selected_items=playlet&sub_selected_items=&unlimited_selector_change_type=2&client_template=2&client_req_type=2&change_type=1&offset=0&limit=40&ts=1794807026&_rticket=1794807026795",
+      "headers": {
+        "User-Agent": "com.phoenix.read/71332 (Linux; U; Android 16; zh_CN; 25053RT47C; Build/BP2A.250605.031.A3; Cronet/TTNetVersion:04657795 2026-01-23 QuicVersion:c67e9834 2025-09-08)",
+        "Accept": "application/json; charset=utf-8,application/x-protobuf",
+        "Content-Type": "application/json; charset=UTF-8",
+        "x-xs-from-web": "0",
+        "x-ss-req-ticket": "1794807026795",
+        "x-tt-request-tag": "t=0;n=0",
+        "sdk-version": "2",
+        "passport-sdk-version": "50561",
+        "x-vc-bdturing-sdk-version": "3.7.2.cn",
+        "x-gorgon": "8404c25b400141dee24c8e62aa1dcc87d5b6f0d2c8ec666f8f61",
+        "x-khronos": "1794807026",
+        "x-ladon": "avqU8g==",
+        "x-argus": "8pT6ag==",
+        "x-helios": "PfwUzKprIl6lvh4NAUvv8Lhb1H12SiIlbmDxhC+RWpgJFK4X",
+        "x-medusa": "95T6at/ftaC74fcpzSFURtD5NjxUDAABBsola14mAVsAmBBuWB1GUMS4UI+nrxPYM1nB7uuFIENpPmuQm77p1x8wwd8MCfa+EkHp9WAsmJKUOdFAuwS8W/bYcGb1GLmjN53zC+D8D1D2KM0aeMDx63kNaOkD9qnpGF0zQDPJOj7PaucHS4eYqQM4KRH7BvOZeVCCUnGUh6vWrGLcoZI31CJccVsq1Wqn96XrErN99wWVWzvDxgg7aMtMzgHVlz/+tv7/9Ke6/2kr",
+        "x-tt-dt": "",
+        "lc": "101"
+      },
+      "body": null,
+      "status": 200,
+      "responseContentType": "application/json; charset=utf-8"
+    },
+    {
+      "at": "2026-11-16T05:30:27.696Z",
+      "method": "POST",
+      "url": "https://reading.snssdk.com/novel/player/video_detail/v1/?ac=wifi&channel=update_64&aid=8662&app_name=novelread&version_code=73932&version_name=7.3.9.32&device_platform=android&os=android&ssmix=a&device_type=25053RT47C&device_brand=Redmi&language=zh&os_api=36&os_version=16&manifest_version_code=73932&resolution=1280*2772&dpi=520&update_version_code=73932&host_abi=arm64-v8a&dragon_device_type=phone&pv_player=73932&compliance_status=0&need_personal_recommend=1&player_so_load=1&is_android_pad_screen=0&iid=4069772115858074&device_id=4069772115853978&cdid=5ecfd14f-e6e9-42f8-89ac-bb8e9ab842aa&ts=1794807027&_rticket=1794807027688",
+      "headers": {
+        "User-Agent": "com.phoenix.read/71332 (Linux; U; Android 16; zh_CN; 25053RT47C; Build/BP2A.250605.031.A3; Cronet/TTNetVersion:04657795 2026-01-23 QuicVersion:c67e9834 2025-09-08)",
+        "Accept": "application/json; charset=utf-8,application/x-protobuf",
+        "Content-Type": "application/json; charset=UTF-8",
+        "x-xs-from-web": "0",
+        "x-ss-req-ticket": "1794807027688",
+        "x-tt-request-tag": "t=0;n=0",
+        "sdk-version": "2",
+        "passport-sdk-version": "50561",
+        "x-vc-bdturing-sdk-version": "3.7.2.cn",
+        "x-ss-stub": "F0C96E4FE1E592E0FD0AC01D7B512A42",
+        "x-gorgon": "840466184001d0ff4cd607861000d50671822f964ed63c43d863",
+        "x-khronos": "1794807027",
+        "x-ladon": "avqU8w==",
+        "x-argus": "85T6ag==",
+        "x-helios": "spvr3sKfjOuTIYi5Mb8dMQXibYuRALzVC/SI+Q4sSuDiPc47",
+        "x-medusa": "9pT6at7ftaC64fcpzCFURtH5NjzKvwABgEqFsGMfgUcHmOMtR6huh1ZLhu9E2GyBY8Xao6Kl4YaEPAnglP8VFlxCre8CKBr5dqlTfuzU/Srn0FfwCoGB/lqTNhr6G7EZ/H7dYpep97XJseM++RKnliffACdTTkPpB9DU9H+KG7dlj6xt+DGnAsa5pE4uOObteDvc1ETegzpZLovpxpMcodXp5NilChVwKFJx6dNBoZjY4RfiDJWyJjdiv+wSIPv9P8Df9T/Ef1pl",
+        "x-tt-dt": "",
+        "lc": "101"
+      },
+      "body": "{\"series_id\":\"7701678491724418073\"}",
+      "status": 200,
+      "responseContentType": "application/json"
+    },
+    {
+      "at": "2026-11-16T05:30:27.911Z",
+      "method": "POST",
+      "url": "https://api5-normal-sinfonlineb.fqnovel.com/novel/player/multi_video_model/v1/?ac=wifi&channel=update_64&aid=8662&app_name=novelread&version_code=73932&version_name=7.3.9.32&device_platform=android&os=android&ssmix=a&device_type=25053RT47C&device_brand=Redmi&language=zh&os_api=36&os_version=16&manifest_version_code=73932&resolution=1280*2772&dpi=520&update_version_code=73932&host_abi=arm64-v8a&dragon_device_type=phone&pv_player=73932&compliance_status=0&need_personal_recommend=1&player_so_load=1&is_android_pad_screen=0&iid=4069772115858074&device_id=4069772115853978&cdid=5ecfd14f-e6e9-42f8-89ac-bb8e9ab842aa&ts=1794807027&_rticket=1794807027902",
+      "headers": {
+        "User-Agent": "com.phoenix.read/71332 (Linux; U; Android 16; zh_CN; 25053RT47C; Build/BP2A.250605.031.A3; Cronet/TTNetVersion:04657795 2026-01-23 QuicVersion:c67e9834 2025-09-08)",
+        "Accept": "application/json; charset=utf-8,application/x-protobuf",
+        "Content-Type": "application/json; charset=UTF-8",
+        "x-xs-from-web": "0",
+        "x-ss-req-ticket": "1794807027902",
+        "x-tt-request-tag": "t=0;n=0",
+        "sdk-version": "2",
+        "passport-sdk-version": "50561",
+        "x-vc-bdturing-sdk-version": "3.7.2.cn",
+        "x-ss-stub": "813FA23B2F03B790778C385BD94D7820",
+        "x-gorgon": "84044c8140010f3f6d21096f9dcbb442323e167450fe8de26139",
+        "x-khronos": "1794807027",
+        "x-ladon": "avqU8w==",
+        "x-argus": "85T6ag==",
+        "x-helios": "XXwGRF88uH/CSbGENxzknDvvdoI7IYvvZ3dFz/WutOx0Hf1Q",
+        "x-medusa": "9pT6at7ftaC64fcpzCFURtH5Njz6cAABvErrPR9xAKgDmBR/V0Z/IGqUDaHEHf7NH0W4llBXUBhxI+CfKSwwfcGkK+7G37T8ge1rQXecIoNj2boYMcc3+jOLuHxySKt56lUDyGgPdmpJk0vqmBLhUxwiaHKQeK7ddWQZp74roMqDNIhCMYhQz3GWt59RgZPJJiwfX9cLctux5vGA6ue+pm2FC6jP7s6HwTMfnvouHJFWE0A8267H1aMOnkhPw73+B+j//heo/z9o",
+        "x-tt-dt": ""
+      },
+      "body": "{\"biz_param\":{\"detail_page_version\":0,\"device_level\":3,\"disable_digg_stat\":false,\"need_all_video_definition\":true,\"need_mp4_align\":false,\"use_os_player\":false,\"use_server_dns\":false,\"video_platform\":1024},\"mixed_video_id_map\":{\"1004\":[\"7701680675979545625\"]}}",
+      "status": 200,
+      "responseContentType": "application/json"
+    },
+    {
+      "at": "2026-11-16T05:30:28.126Z",
+      "method": "HEAD",
+      "url": "https://v5-reading-video.qznovelvod.com/9fd7ad299396469a6548479331e566ab/6afae9ff/video/tos/cn/tos-cn-v-6fcc8e/oIdBRkEfvRYqFAD7Q3Ou5H6DgEWrCfgYyq40Ia/?a=8662&ch=0&cr=7&dr=0&er=1&lr=default&cd=0%7C0%7C0%7C1&cv=1&bt=410&cs=4&ds=4&eid=59904&ft=qAQiXHRhGG.rhFE0S~Y5Sgx0ZDnTYhJaOB5l15KLo0u-uBqBVf9m99I~p4Pbo-o2OSYVc&mime_type=video_mp4&qs=0&rc=NzlkZmllNTVoN2RnNDw3O0BpandvbXc5cmt3ZTMzNGhoM0BiLzViLTRjXzMxXjQ1Yl8uYSNfMS9wMmQ0b2RhLS1kXy9zcw%3D%3D&ult=695&btag=c0000e00028000&cdn_type=1&dy_q=1794807027&feature_id=bdd505cd55b47341623c9e720b7b5e35&l=2026111613302702EAFCFD041D16FF084A&n80=1&n80_dm=bjk4LXYtcmVhZGluZ3ZpZGVvLnF6bm92ZWx2b2QuY29t&n80_tk=ebaf742bd90e6d0a7074a13d6c0e2fea&pdp=online_xy&pwid=297&req_cdn_type=r",
+      "headers": {
+        "User-Agent": "com.phoenix.read/71332 (Linux; U; Android 16; zh_CN; 25053RT47C; Build/BP2A.250605.031.A3; Cronet/TTNetVersion:04657795 2026-01-23 QuicVersion:c67e9834 2025-09-08)"
+      },
+      "body": null,
+      "status": 200,
+      "responseContentType": "video/mp4"
+    }
+  ]
+}

@@ -1,0 +1,574 @@
+{
+  "selectors": [
+    {
+      "selector": 0,
+      "query": "ac=wifi&aid=8662&ts=1794807027&probe=0",
+      "bodyHashHex": "f0c96e4fe1e592e0fd0ac01d7b512a42",
+      "epoch": 1794807027,
+      "materialHex": "b23c2a470a20d105dc3f8c4438f8272ed46d6c89ffdcdedd5108698d26e9489d",
+      "nonce": 305419896,
+      "protoHex": "0a102d4b4fca49750d433fb5ae2c226dcc56100a",
+      "normalJniFalse": {
+        "queryHashHex": "f005495523aedcd0a544af241b06f139ccae7925585a9c2f72eaa13706d5ed8d",
+        "selector": 0,
+        "mixedDigestHex": "8840b26b3399236cc06bed4916963d0a0b435bc2",
+        "prefixFlag": 202,
+        "streamSeedHex": "2464acd73b2a6be40622fc8e87470c65a5243f858997079403cdf061df87fcd0",
+        "streamKeyHex": "d85ffeff",
+        "xiHex": "f17a3dd32db9df5b53f1642a9f2a36d782e025a0"
+      },
+      "normalJniTrue": {
+        "queryHashHex": "f005495523aedcd0a544af241b06f139ccae7925585a9c2f72eaa13706d5ed8d",
+        "selector": 0,
+        "mixedDigestHex": "8840b26b3399236cc06bed4916963d0a6cff0ae6",
+        "prefixFlag": 202,
+        "streamSeedHex": "2464acd73b2a6be40622fc8e87470c65a5243f858997079403cdf061df87fcd0",
+        "streamKeyHex": "d85ffeff",
+        "xiHex": "f17a3dd32db9df5b53f1642a9f2a36d782e025a0"
+      }
+    },
+    {
+      "selector": 1,
+      "query": "ac=wifi&aid=8662&ts=1794807027&probe=1",
+      "bodyHashHex": "f0c96e4fe1e592e0fd0ac01d7b512a42",
+      "epoch": 1794807027,
+      "materialHex": "b23c2a470a20d105dc3f8c4438f8272ed46d6c89ffdcdedd5108698d26e9489d",
+      "nonce": 305419896,
+      "protoHex": "0a102d4b4fca49750d433fb5ae2c226dcc56100a",
+      "normalJniFalse": {
+        "queryHashHex": "f78bce383f563025b81b6d9544661de9a3529837265b2fe7df0a69e714620b26",
+        "selector": 1,
+        "mixedDigestHex": "5a40eea267e3e4bea1e27c9d0f3e765e0aedf030",
+        "prefixFlag": 202,
+        "streamSeedHex": "2464acd73b2a6be40622fc8e87470c65a5243f858997079403cdf061df87fcd0",
+        "streamKeyHex": "d85ffeff",
+        "xiHex": "f17a3dd32db9df5b53f1642a9f2a36d782e025a0"
+      },
+      "normalJniTrue": {
+        "queryHashHex": "f78bce383f563025b81b6d9544661de9a3529837265b2fe7df0a69e714620b26",
+        "selector": 1,
+        "mixedDigestHex": "5a40eea267e3e4bea1e27c9d0f3e765e3dbee9b9",
+        "prefixFlag": 202,
+        "streamSeedHex": "2464acd73b2a6be40622fc8e87470c65a5243f858997079403cdf061df87fcd0",
+        "streamKeyHex": "d85ffeff",
+        "xiHex": "f17a3dd32db9df5b53f1642a9f2a36d782e025a0"
+      }
+    },
+    {
+      "selector": 2,
+      "query": "ac=wifi&aid=8662&ts=1794807027&probe=2",
+      "bodyHashHex": "f0c96e4fe1e592e0fd0ac01d7b512a42",
+      "epoch": 1794807027,
+      "materialHex": "b23c2a470a20d105dc3f8c4438f8272ed46d6c89ffdcdedd5108698d26e9489d",
+      "nonce": 305419896,
+      "protoHex": "0a102d4b4fca49750d433fb5ae2c226dcc56100a",
+      "normalJniFalse": {
+        "queryHashHex": "2bfa8dfa359e1f992b51f0c1f742c134f1f82446d731bd7337ca2ece77a0619d",
+        "selector": 2,
+        "mixedDigestHex": "b542b156974bfd66c934e74c61e09aaa9137b43d",
+        "prefixFlag": 202,
+        "streamSeedHex": "2464acd73b2a6be40622fc8e87470c65a5243f858997079403cdf061df87fcd0",
+        "streamKeyHex": "d85ffeff",
+        "xiHex": "f17a3dd32db9df5b53f1642a9f2a36d782e025a0"
+      },
+      "normalJniTrue": {
+        "queryHashHex": "2bfa8dfa359e1f992b51f0c1f742c134f1f82446d731bd7337ca2ece77a0619d",
+        "selector": 2,
+        "mixedDigestHex": "b542b156974bfd66c934e74c61e09aaabe21b2e9",
+        "prefixFlag": 202,
+        "streamSeedHex": "2464acd73b2a6be40622fc8e87470c65a5243f858997079403cdf061df87fcd0",
+        "streamKeyHex": "d85ffeff",
+        "xiHex": "f17a3dd32db9df5b53f1642a9f2a36d782e025a0"
+      }
+    },
+    {
+      "selector": 3,
+      "query": "ac=wifi&aid=8662&ts=1794807027&probe=3",
+      "bodyHashHex": "f0c96e4fe1e592e0fd0ac01d7b512a42",
+      "epoch": 1794807027,
+      "materialHex": "b23c2a470a20d105dc3f8c4438f8272ed46d6c89ffdcdedd5108698d26e9489d",
+      "nonce": 305419896,
+      "protoHex": "0a102d4b4fca49750d433fb5ae2c226dcc56100a",
+      "normalJniFalse": {
+        "queryHashHex": "a3ec8153dc9ae869b603030e8ef18067a865eb66febdbc6cb760531f22ea58c7",
+        "selector": 3,
+        "mixedDigestHex": "c61f5b04fdfdded79265a432fdb119ec4ac62254",
+        "prefixFlag": 202,
+        "streamSeedHex": "2464acd73b2a6be40622fc8e87470c65a5243f858997079403cdf061df87fcd0",
+        "streamKeyHex": "d85ffeff",
+        "xiHex": "f17a3dd32db9df5b53f1642a9f2a36d782e025a0"
+      },
+      "normalJniTrue": {
+        "queryHashHex": "a3ec8153dc9ae869b603030e8ef18067a865eb66febdbc6cb760531f22ea58c7",
+        "selector": 3,
+        "mixedDigestHex": "c61f5b04fdfdded79265a432fdb119ec26f97731",
+        "prefixFlag": 202,
+        "streamSeedHex": "2464acd73b2a6be40622fc8e87470c65a5243f858997079403cdf061df87fcd0",
+        "streamKeyHex": "d85ffeff",
+        "xiHex": "f17a3dd32db9df5b53f1642a9f2a36d782e025a0"
+      }
+    },
+    {
+      "selector": 4,
+      "query": "ac=wifi&aid=8662&ts=1794807027&probe=4",
+      "bodyHashHex": "f0c96e4fe1e592e0fd0ac01d7b512a42",
+      "epoch": 1794807027,
+      "materialHex": "b23c2a470a20d105dc3f8c4438f8272ed46d6c89ffdcdedd5108698d26e9489d",
+      "nonce": 305419896,
+      "protoHex": "0a102d4b4fca49750d433fb5ae2c226dcc56100a",
+      "normalJniFalse": {
+        "queryHashHex": "7eb529212cc8b071e5c452cbbc54b44bdfe24a8b9a25c803a3dc2fbdf67547de",
+        "selector": 4,
+        "mixedDigestHex": "a20905444de3ca587dea7aa8ab062f978baa8aa4",
+        "prefixFlag": 202,
+        "streamSeedHex": "2464acd73b2a6be40622fc8e87470c65a5243f858997079403cdf061df87fcd0",
+        "streamKeyHex": "d85ffeff",
+        "xiHex": "f17a3dd32db9df5b53f1642a9f2a36d782e025a0"
+      },
+      "normalJniTrue": {
+        "queryHashHex": "7eb529212cc8b071e5c452cbbc54b44bdfe24a8b9a25c803a3dc2fbdf67547de",
+        "selector": 4,
+        "mixedDigestHex": "a20905444de3ca587dea7aa8ab062f97b6177a35",
+        "prefixFlag": 202,
+        "streamSeedHex": "2464acd73b2a6be40622fc8e87470c65a5243f858997079403cdf061df87fcd0",
+        "streamKeyHex": "d85ffeff",
+        "xiHex": "f17a3dd32db9df5b53f1642a9f2a36d782e025a0"
+      }
+    },
+    {
+      "selector": 5,
+      "query": "ac=wifi&aid=8662&ts=1794807027&probe=5",
+      "bodyHashHex": "f0c96e4fe1e592e0fd0ac01d7b512a42",
+      "epoch": 1794807027,
+      "materialHex": "b23c2a470a20d105dc3f8c4438f8272ed46d6c89ffdcdedd5108698d26e9489d",
+      "nonce": 305419896,
+      "protoHex": "0a102d4b4fca49750d433fb5ae2c226dcc56100a",
+      "normalJniFalse": {
+        "queryHashHex": "b7920018de7ebcf968a97fae6662db0ef874cba63c73979b0ed397c021c72f61",
+        "selector": 5,
+        "mixedDigestHex": "703012527aefc3976cc5d6388e3460ee89472acd",
+        "prefixFlag": 202,
+        "streamSeedHex": "2464acd73b2a6be40622fc8e87470c65a5243f858997079403cdf061df87fcd0",
+        "streamKeyHex": "d85ffeff",
+        "xiHex": "f17a3dd32db9df5b53f1642a9f2a36d782e025a0"
+      },
+      "normalJniTrue": {
+        "queryHashHex": "b7920018de7ebcf968a97fae6662db0ef874cba63c73979b0ed397c021c72f61",
+        "selector": 5,
+        "mixedDigestHex": "703012527aefc3976cc5d6388e3460ee26e04b97",
+        "prefixFlag": 202,
+        "streamSeedHex": "2464acd73b2a6be40622fc8e87470c65a5243f858997079403cdf061df87fcd0",
+        "streamKeyHex": "d85ffeff",
+        "xiHex": "f17a3dd32db9df5b53f1642a9f2a36d782e025a0"
+      }
+    },
+    {
+      "selector": 6,
+      "query": "ac=wifi&aid=8662&ts=1794807027&probe=6",
+      "bodyHashHex": "f0c96e4fe1e592e0fd0ac01d7b512a42",
+      "epoch": 1794807027,
+      "materialHex": "b23c2a470a20d105dc3f8c4438f8272ed46d6c89ffdcdedd5108698d26e9489d",
+      "nonce": 305419896,
+      "protoHex": "0a102d4b4fca49750d433fb5ae2c226dcc56100a",
+      "normalJniFalse": {
+        "queryHashHex": "35818924ab848f83b081e8200581ee0506b220e4daa6bb3f8d0401ff37ddbd0d",
+        "selector": 6,
+        "mixedDigestHex": "f7230067e4c978ec20ffb7012e940ada98ddd8c4",
+        "prefixFlag": 202,
+        "streamSeedHex": "2464acd73b2a6be40622fc8e87470c65a5243f858997079403cdf061df87fcd0",
+        "streamKeyHex": "d85ffeff",
+        "xiHex": "f17a3dd32db9df5b53f1642a9f2a36d782e025a0"
+      },
+      "normalJniTrue": {
+        "queryHashHex": "35818924ab848f83b081e8200581ee0506b220e4daa6bb3f8d0401ff37ddbd0d",
+        "selector": 6,
+        "mixedDigestHex": "f7230067e4c978ec20ffb7012e940adaaf1bc0a1",
+        "prefixFlag": 202,
+        "streamSeedHex": "2464acd73b2a6be40622fc8e87470c65a5243f858997079403cdf061df87fcd0",
+        "streamKeyHex": "d85ffeff",
+        "xiHex": "f17a3dd32db9df5b53f1642a9f2a36d782e025a0"
+      }
+    },
+    {
+      "selector": 7,
+      "query": "ac=wifi&aid=8662&ts=1794807027&probe=7",
+      "bodyHashHex": "f0c96e4fe1e592e0fd0ac01d7b512a42",
+      "epoch": 1794807027,
+      "materialHex": "b23c2a470a20d105dc3f8c4438f8272ed46d6c89ffdcdedd5108698d26e9489d",
+      "nonce": 305419896,
+      "protoHex": "0a102d4b4fca49750d433fb5ae2c226dcc56100a",
+      "normalJniFalse": {
+        "queryHashHex": "dea694a532e427ea2e2c5f66a3424e6e59a607e4aa19e4929e186d325158c36d",
+        "selector": 7,
+        "mixedDigestHex": "0fdd53f5428c861c7302261745b9aaa25077b3fa",
+        "prefixFlag": 202,
+        "streamSeedHex": "2464acd73b2a6be40622fc8e87470c65a5243f858997079403cdf061df87fcd0",
+        "streamKeyHex": "d85ffeff",
+        "xiHex": "f17a3dd32db9df5b53f1642a9f2a36d782e025a0"
+      },
+      "normalJniTrue": {
+        "queryHashHex": "dea694a532e427ea2e2c5f66a3424e6e59a607e4aa19e4929e186d325158c36d",
+        "selector": 7,
+        "mixedDigestHex": "0fdd53f5428c861c7302261745b9aaa2b49c03bb",
+        "prefixFlag": 202,
+        "streamSeedHex": "2464acd73b2a6be40622fc8e87470c65a5243f858997079403cdf061df87fcd0",
+        "streamKeyHex": "d85ffeff",
+        "xiHex": "f17a3dd32db9df5b53f1642a9f2a36d782e025a0"
+      }
+    },
+    {
+      "selector": 8,
+      "query": "ac=wifi&aid=8662&ts=1794807027&probe=8",
+      "bodyHashHex": "f0c96e4fe1e592e0fd0ac01d7b512a42",
+      "epoch": 1794807027,
+      "materialHex": "b23c2a470a20d105dc3f8c4438f8272ed46d6c89ffdcdedd5108698d26e9489d",
+      "nonce": 305419896,
+      "protoHex": "0a102d4b4fca49750d433fb5ae2c226dcc56100a",
+      "normalJniFalse": {
+        "queryHashHex": "ed73b5e165eca8187462f9fb597165912f4d79c90521230862f1e3512d042e17",
+        "selector": 8,
+        "mixedDigestHex": "60a8d10a9252d3fa712c6e0892536f6e1a2ab251",
+        "prefixFlag": 202,
+        "streamSeedHex": "2464acd73b2a6be40622fc8e87470c65a5243f858997079403cdf061df87fcd0",
+        "streamKeyHex": "d85ffeff",
+        "xiHex": "f17a3dd32db9df5b53f1642a9f2a36d782e025a0"
+      },
+      "normalJniTrue": {
+        "queryHashHex": "ed73b5e165eca8187462f9fb597165912f4d79c90521230862f1e3512d042e17",
+        "selector": 8,
+        "mixedDigestHex": "60a8d10a9252d3fa712c6e0892536f6ee455f02b",
+        "prefixFlag": 202,
+        "streamSeedHex": "2464acd73b2a6be40622fc8e87470c65a5243f858997079403cdf061df87fcd0",
+        "streamKeyHex": "d85ffeff",
+        "xiHex": "f17a3dd32db9df5b53f1642a9f2a36d782e025a0"
+      }
+    },
+    {
+      "selector": 9,
+      "query": "ac=wifi&aid=8662&ts=1794807027&probe=9",
+      "bodyHashHex": "f0c96e4fe1e592e0fd0ac01d7b512a42",
+      "epoch": 1794807027,
+      "materialHex": "b23c2a470a20d105dc3f8c4438f8272ed46d6c89ffdcdedd5108698d26e9489d",
+      "nonce": 305419896,
+      "protoHex": "0a102d4b4fca49750d433fb5ae2c226dcc56100a",
+      "normalJniFalse": {
+        "queryHashHex": "34324d460c3ed88ec7e26cc17830405acf604fdbc8bb8a0f97e7305549ef3b41",
+        "selector": 9,
+        "mixedDigestHex": "ef7fd5fa2bcafd001e8c0e6b9d0a82eb1074cfff",
+        "prefixFlag": 202,
+        "streamSeedHex": "2464acd73b2a6be40622fc8e87470c65a5243f858997079403cdf061df87fcd0",
+        "streamKeyHex": "d85ffeff",
+        "xiHex": "f17a3dd32db9df5b53f1642a9f2a36d782e025a0"
+      },
+      "normalJniTrue": {
+        "queryHashHex": "34324d460c3ed88ec7e26cc17830405acf604fdbc8bb8a0f97e7305549ef3b41",
+        "selector": 9,
+        "mixedDigestHex": "ef7fd5fa2bcafd001e8c0e6b9d0a82ebe66cbed6",
+        "prefixFlag": 202,
+        "streamSeedHex": "2464acd73b2a6be40622fc8e87470c65a5243f858997079403cdf061df87fcd0",
+        "streamKeyHex": "d85ffeff",
+        "xiHex": "f17a3dd32db9df5b53f1642a9f2a36d782e025a0"
+      }
+    },
+    {
+      "selector": 10,
+      "query": "ac=wifi&aid=8662&ts=1794807027&probe=10",
+      "bodyHashHex": "f0c96e4fe1e592e0fd0ac01d7b512a42",
+      "epoch": 1794807027,
+      "materialHex": "b23c2a470a20d105dc3f8c4438f8272ed46d6c89ffdcdedd5108698d26e9489d",
+      "nonce": 305419896,
+      "protoHex": "0a102d4b4fca49750d433fb5ae2c226dcc56100a",
+      "normalJniFalse": {
+        "queryHashHex": "998cd019a511cba5e112f479053f4cd87ccda7f9b7668e8b372f3368e98e5b3d",
+        "selector": 10,
+        "mixedDigestHex": "663be52f3cb82032302e774ac299ddd8c88d030f",
+        "prefixFlag": 202,
+        "streamSeedHex": "2464acd73b2a6be40622fc8e87470c65a5243f858997079403cdf061df87fcd0",
+        "streamKeyHex": "d85ffeff",
+        "xiHex": "f17a3dd32db9df5b53f1642a9f2a36d782e025a0"
+      },
+      "normalJniTrue": {
+        "queryHashHex": "998cd019a511cba5e112f479053f4cd87ccda7f9b7668e8b372f3368e98e5b3d",
+        "selector": 10,
+        "mixedDigestHex": "663be52f3cb82032302e774ac299ddd8ece17291",
+        "prefixFlag": 202,
+        "streamSeedHex": "2464acd73b2a6be40622fc8e87470c65a5243f858997079403cdf061df87fcd0",
+        "streamKeyHex": "d85ffeff",
+        "xiHex": "f17a3dd32db9df5b53f1642a9f2a36d782e025a0"
+      }
+    },
+    {
+      "selector": 11,
+      "query": "ac=wifi&aid=8662&ts=1794807027&probe=11",
+      "bodyHashHex": "f0c96e4fe1e592e0fd0ac01d7b512a42",
+      "epoch": 1794807027,
+      "materialHex": "b23c2a470a20d105dc3f8c4438f8272ed46d6c89ffdcdedd5108698d26e9489d",
+      "nonce": 305419896,
+      "protoHex": "0a102d4b4fca49750d433fb5ae2c226dcc56100a",
+      "normalJniFalse": {
+        "queryHashHex": "4e88f73452e737a018ffb20c54711d6235c94cf152a622947738e927c46cebbd",
+        "selector": 11,
+        "mixedDigestHex": "68c470deb861acfd12365b36c3f9447403bd0ebd",
+        "prefixFlag": 202,
+        "streamSeedHex": "2464acd73b2a6be40622fc8e87470c65a5243f858997079403cdf061df87fcd0",
+        "streamKeyHex": "d85ffeff",
+        "xiHex": "f17a3dd32db9df5b53f1642a9f2a36d782e025a0"
+      },
+      "normalJniTrue": {
+        "queryHashHex": "4e88f73452e737a018ffb20c54711d6235c94cf152a622947738e927c46cebbd",
+        "selector": 11,
+        "mixedDigestHex": "68c470deb861acfd12365b36c3f94474efba1178",
+        "prefixFlag": 202,
+        "streamSeedHex": "2464acd73b2a6be40622fc8e87470c65a5243f858997079403cdf061df87fcd0",
+        "streamKeyHex": "d85ffeff",
+        "xiHex": "f17a3dd32db9df5b53f1642a9f2a36d782e025a0"
+      }
+    },
+    {
+      "selector": 12,
+      "query": "ac=wifi&aid=8662&ts=1794807027&probe=12",
+      "bodyHashHex": "f0c96e4fe1e592e0fd0ac01d7b512a42",
+      "epoch": 1794807027,
+      "materialHex": "b23c2a470a20d105dc3f8c4438f8272ed46d6c89ffdcdedd5108698d26e9489d",
+      "nonce": 305419896,
+      "protoHex": "0a102d4b4fca49750d433fb5ae2c226dcc56100a",
+      "normalJniFalse": {
+        "queryHashHex": "2146e3b052e1377406e339937ba8d88130ad83db405172c4df502191c3e8b7e0",
+        "selector": 12,
+        "mixedDigestHex": "7f236eeb016c0edc1a308900c54eea0ac3e9003e",
+        "prefixFlag": 202,
+        "streamSeedHex": "2464acd73b2a6be40622fc8e87470c65a5243f858997079403cdf061df87fcd0",
+        "streamKeyHex": "d85ffeff",
+        "xiHex": "f17a3dd32db9df5b53f1642a9f2a36d782e025a0"
+      },
+      "normalJniTrue": {
+        "queryHashHex": "2146e3b052e1377406e339937ba8d88130ad83db405172c4df502191c3e8b7e0",
+        "selector": 12,
+        "mixedDigestHex": "7f236eeb016c0edc1a308900c54eea0af5793b2b",
+        "prefixFlag": 202,
+        "streamSeedHex": "2464acd73b2a6be40622fc8e87470c65a5243f858997079403cdf061df87fcd0",
+        "streamKeyHex": "d85ffeff",
+        "xiHex": "f17a3dd32db9df5b53f1642a9f2a36d782e025a0"
+      }
+    },
+    {
+      "selector": 13,
+      "query": "ac=wifi&aid=8662&ts=1794807027&probe=13",
+      "bodyHashHex": "f0c96e4fe1e592e0fd0ac01d7b512a42",
+      "epoch": 1794807027,
+      "materialHex": "b23c2a470a20d105dc3f8c4438f8272ed46d6c89ffdcdedd5108698d26e9489d",
+      "nonce": 305419896,
+      "protoHex": "0a102d4b4fca49750d433fb5ae2c226dcc56100a",
+      "normalJniFalse": {
+        "queryHashHex": "de3d30e2779f639bd95ac9e7f9f84ec0c3a92c562b877d332bc737fde0728aa0",
+        "selector": 13,
+        "mixedDigestHex": "7de818be2d7cbbc97fca515de72970c75b9e7802",
+        "prefixFlag": 202,
+        "streamSeedHex": "2464acd73b2a6be40622fc8e87470c65a5243f858997079403cdf061df87fcd0",
+        "streamKeyHex": "d85ffeff",
+        "xiHex": "f17a3dd32db9df5b53f1642a9f2a36d782e025a0"
+      },
+      "normalJniTrue": {
+        "queryHashHex": "de3d30e2779f639bd95ac9e7f9f84ec0c3a92c562b877d332bc737fde0728aa0",
+        "selector": 13,
+        "mixedDigestHex": "7de818be2d7cbbc97fca515de72970c7e7509575",
+        "prefixFlag": 202,
+        "streamSeedHex": "2464acd73b2a6be40622fc8e87470c65a5243f858997079403cdf061df87fcd0",
+        "streamKeyHex": "d85ffeff",
+        "xiHex": "f17a3dd32db9df5b53f1642a9f2a36d782e025a0"
+      }
+    },
+    {
+      "selector": 14,
+      "query": "ac=wifi&aid=8662&ts=1794807027&probe=14",
+      "bodyHashHex": "f0c96e4fe1e592e0fd0ac01d7b512a42",
+      "epoch": 1794807027,
+      "materialHex": "b23c2a470a20d105dc3f8c4438f8272ed46d6c89ffdcdedd5108698d26e9489d",
+      "nonce": 305419896,
+      "protoHex": "0a102d4b4fca49750d433fb5ae2c226dcc56100a",
+      "normalJniFalse": {
+        "queryHashHex": "89d0c164126b0eee80f5332c6e4eef0154e713c5f3958d7d53c1facdcd71ce26",
+        "selector": 14,
+        "mixedDigestHex": "d8fcf8e65ec3815655322d21aa9acc7e522678d2",
+        "prefixFlag": 202,
+        "streamSeedHex": "2464acd73b2a6be40622fc8e87470c65a5243f858997079403cdf061df87fcd0",
+        "streamKeyHex": "d85ffeff",
+        "xiHex": "f17a3dd32db9df5b53f1642a9f2a36d782e025a0"
+      },
+      "normalJniTrue": {
+        "queryHashHex": "89d0c164126b0eee80f5332c6e4eef0154e713c5f3958d7d53c1facdcd71ce26",
+        "selector": 14,
+        "mixedDigestHex": "d8fcf8e65ec3815655322d21aa9acc7e350fdc45",
+        "prefixFlag": 202,
+        "streamSeedHex": "2464acd73b2a6be40622fc8e87470c65a5243f858997079403cdf061df87fcd0",
+        "streamKeyHex": "d85ffeff",
+        "xiHex": "f17a3dd32db9df5b53f1642a9f2a36d782e025a0"
+      }
+    },
+    {
+      "selector": 15,
+      "query": "ac=wifi&aid=8662&ts=1794807027&probe=15",
+      "bodyHashHex": "f0c96e4fe1e592e0fd0ac01d7b512a42",
+      "epoch": 1794807027,
+      "materialHex": "b23c2a470a20d105dc3f8c4438f8272ed46d6c89ffdcdedd5108698d26e9489d",
+      "nonce": 305419896,
+      "protoHex": "0a102d4b4fca49750d433fb5ae2c226dcc56100a",
+      "normalJniFalse": {
+        "queryHashHex": "7448ea4264c62107134349197a0abbbc6a4a0658fb90c2aa653b259d14789ad4",
+        "selector": 15,
+        "mixedDigestHex": "cd82def8228d259866b61a54da0a7e8d8bc2a0a3",
+        "prefixFlag": 202,
+        "streamSeedHex": "2464acd73b2a6be40622fc8e87470c65a5243f858997079403cdf061df87fcd0",
+        "streamKeyHex": "d85ffeff",
+        "xiHex": "f17a3dd32db9df5b53f1642a9f2a36d782e025a0"
+      },
+      "normalJniTrue": {
+        "queryHashHex": "7448ea4264c62107134349197a0abbbc6a4a0658fb90c2aa653b259d14789ad4",
+        "selector": 15,
+        "mixedDigestHex": "cd82def8228d259866b61a54da0a7e8df467503b",
+        "prefixFlag": 202,
+        "streamSeedHex": "2464acd73b2a6be40622fc8e87470c65a5243f858997079403cdf061df87fcd0",
+        "streamKeyHex": "d85ffeff",
+        "xiHex": "f17a3dd32db9df5b53f1642a9f2a36d782e025a0"
+      }
+    }
+  ],
+  "signs": [
+    {
+      "url": "https://reading.snssdk.com/reading/bookapi/bookmall/tab/v?ac=wifi&channel=update_64&aid=8662&app_name=novelread&version_code=73932&version_name=7.3.9.32&device_platform=android&os=android&ssmix=a&device_type=25053RT47C&device_brand=Redmi&language=zh&os_api=36&os_version=16&manifest_version_code=73932&resolution=1280*2772&dpi=520&update_version_code=73932&host_abi=arm64-v8a&dragon_device_type=phone&pv_player=73932&compliance_status=0&need_personal_recommend=1&player_so_load=1&is_android_pad_screen=0&iid=4069772115858074&device_id=4069772115853978&cdid=5ecfd14f-e6e9-42f8-89ac-bb8e9ab842aa&tab_type=8&tab_index=0&offset=0&ts=1794807025&_rticket=1794807025401",
+      "bodyBase64": null,
+      "epoch": 1794807025,
+      "device": {
+        "iid": "4069772115858074",
+        "device_id": "4069772115853978",
+        "cdid": "5ecfd14f-e6e9-42f8-89ac-bb8e9ab842aa"
+      },
+      "randoms": [
+        287454020,
+        1432778632,
+        430619596
+      ],
+      "gorgonRand": 8090,
+      "heliosRand": 2810287296,
+      "counter": 1,
+      "naturalSelector": 6,
+      "naturalDigestHex": "2d9a10bb2be8af5efacb28b167c56733c9142de2",
+      "protoHex": "0a102d4b4fca49750d433fb5ae2c226dcc56100a1888cd9192022204383636322a1034303639373732313135383533393738320936343636333737393442147630342e31302e30332d6d6c2d616e64726f696448808cd0405208000000000000000060e2d3d4af0d6a142d9a10bb2be8af5efacb28b167c56733c9142de2720697bc16db87027a0e080210bee15418bee15428bee1548801e2d3d4af0d",
+      "headers": {
+        "x-gorgon": "84049a1f4001c6ca0e471208379154e5658ffdb278e9a2ef23e6",
+        "x-khronos": "1794807025",
+        "x-ladon": "avqU8Q==",
+        "x-argus": "8ZT6ag==",
+        "x-helios": "wJSBpwt8Z8Yh3x4toTHnNp4vw7MrKPQGX0TWc19ipL9qO0Uq",
+        "x-medusa": "9JT6atzftaC44fcpziFURtP5NjyIdwAB8sqss7oZAesGmEoZUzx1JjuvxUR4WXImAhmlc3m3TFsQ2lfMoSYoKg7oiOIb+uYSKmfcDZRu1YQdsvvPS0/tK0RgiKzVb9vjn7VG+EKcoufkaAfuk1fexfnW4b5i5nac4/oQBMi6RDvURNTV7XCvRWRLJpvGub/QV4MKYbM6BdOEGQqZiK0DTOw5QiRdB//Jl6FlmCwOvX0yyUigahKbvHqCuMguqw7+z4///N/Lf2RV"
+      },
+      "realHeaders": {
+        "x-khronos": "1794807025",
+        "x-ladon": "avqU8Q==",
+        "x-argus": "8ZT6ag=="
+      }
+    },
+    {
+      "url": "https://reading.snssdk.com/reading/bookapi/bookmall/cell/change/v?ac=wifi&channel=update_64&aid=8662&app_name=novelread&version_code=73932&version_name=7.3.9.32&device_platform=android&os=android&ssmix=a&device_type=25053RT47C&device_brand=Redmi&language=zh&os_api=36&os_version=16&manifest_version_code=73932&resolution=1280*2772&dpi=520&update_version_code=73932&host_abi=arm64-v8a&dragon_device_type=phone&pv_player=73932&compliance_status=0&need_personal_recommend=1&player_so_load=1&is_android_pad_screen=0&iid=4069772115858074&device_id=4069772115853978&cdid=5ecfd14f-e6e9-42f8-89ac-bb8e9ab842aa&cell_id=6952850996422770718&tab_type=8&selected_items=playlet&sub_selected_items=&unlimited_selector_change_type=2&client_template=2&client_req_type=2&change_type=1&offset=0&limit=40&ts=1794807026&_rticket=1794807026795",
+      "bodyBase64": null,
+      "epoch": 1794807026,
+      "device": {
+        "iid": "4069772115858074",
+        "device_id": "4069772115853978",
+        "cdid": "5ecfd14f-e6e9-42f8-89ac-bb8e9ab842aa"
+      },
+      "randoms": [
+        287454020,
+        1432778632,
+        430619596
+      ],
+      "gorgonRand": 8090,
+      "heliosRand": 2810287296,
+      "counter": 1,
+      "naturalSelector": 2,
+      "naturalDigestHex": "1faf2a63a159683db3a15c461d2f90a103eab0a5",
+      "protoHex": "0a102d4b4fca49750d433fb5ae2c226dcc56100a1888cd9192022204383636322a1034303639373732313135383533393738320936343636333737393442147630342e31302e30332d6d6c2d616e64726f696448808cd0405208000000000000000060e4d3d4af0d6a141faf2a63a159683db3a15c461d2f90a103eab0a57206851ac282d6117a0e080210bee15418bee15428bee1548801e4d3d4af0d",
+      "headers": {
+        "x-gorgon": "84049a1f40010488a6d11208379154e5658ffdb278e9a2efe3a9",
+        "x-khronos": "1794807026",
+        "x-ladon": "avqU8g==",
+        "x-argus": "8pT6ag==",
+        "x-helios": "wJSBp6rQyfQNcM4uRS1uCz2JOwUrKPQGX0TWc19ipL9qO0Uq",
+        "x-medusa": "95T6at/ftaC74fcpzSFURtD5NjyIdwABK0qsq5oZAF0AWPzPbP67kGSNzDjQJBD2eMBU7MZa4RflJVpZWAAinOFlE6P6B1l8a8s6jLaPKPa7xWJOjuuLsPuerfdCE7uUhfgH+DGP20GP19KZM51ovlW+KZFjkXybQbLOgmqxakVYPLBX/XbvproWBd+H53UD9NFUuHKeDcyOHr5jbnOOqbK85kvt/8Kz2VMysJiXZdCnelyQ369j8rEqt8guq/X+zs/f/N/Pf2ZV"
+      },
+      "realHeaders": {
+        "x-khronos": "1794807026",
+        "x-ladon": "avqU8g==",
+        "x-argus": "8pT6ag=="
+      }
+    },
+    {
+      "url": "https://reading.snssdk.com/novel/player/video_detail/v1/?ac=wifi&channel=update_64&aid=8662&app_name=novelread&version_code=73932&version_name=7.3.9.32&device_platform=android&os=android&ssmix=a&device_type=25053RT47C&device_brand=Redmi&language=zh&os_api=36&os_version=16&manifest_version_code=73932&resolution=1280*2772&dpi=520&update_version_code=73932&host_abi=arm64-v8a&dragon_device_type=phone&pv_player=73932&compliance_status=0&need_personal_recommend=1&player_so_load=1&is_android_pad_screen=0&iid=4069772115858074&device_id=4069772115853978&cdid=5ecfd14f-e6e9-42f8-89ac-bb8e9ab842aa&ts=1794807027&_rticket=1794807027688",
+      "bodyBase64": "eyJzZXJpZXNfaWQiOiI3NzAxNjc4NDkxNzI0NDE4MDczIn0=",
+      "epoch": 1794807027,
+      "device": {
+        "iid": "4069772115858074",
+        "device_id": "4069772115853978",
+        "cdid": "5ecfd14f-e6e9-42f8-89ac-bb8e9ab842aa"
+      },
+      "randoms": [
+        287454020,
+        1432778632,
+        430619596
+      ],
+      "gorgonRand": 8090,
+      "heliosRand": 2810287296,
+      "counter": 1,
+      "naturalSelector": 0,
+      "naturalDigestHex": "05074af80f11262bcc7ec066a78067b20067226b",
+      "protoHex": "0a102d4b4fca49750d433fb5ae2c226dcc56100a1888cd9192022204383636322a1034303639373732313135383533393738320936343636333737393442147630342e31302e30332d6d6c2d616e64726f696448808cd0405208000000000000000060e6d3d4af0d6a1405074af80f11262bcc7ec066a78067b20067226b720691c407adafd17a0e080210bee15418bee15428bee1548801e6d3d4af0d",
+      "headers": {
+        "x-gorgon": "84049a1f400174cfd34b7147a2be54e5658ffdb278e9a2ef63af",
+        "x-khronos": "1794807027",
+        "x-ladon": "avqU8w==",
+        "x-argus": "85T6ag==",
+        "x-helios": "wJSBp6sHjvC/+UB1XDpRVVgPOYIrKPQGX0TWc19ipL9qO0Uq",
+        "x-medusa": "9pT6at7ftaC64fcpzCFURtH5NjyIdwAB+gqMs7odAUEH2JOYMsGp0QJZMbr79wEX91dKjiuCgnAdVQN4mEtphYJfgAoEZ8S48UvTUYH6x4KMfkz8MTRZG3E1GogWHb6yEPLCmL0DO7rw1ec3HY6G2tmOAUntsSNBbjHFmdmlLUGtmXIlyCXA6bERKMQSXrjpngIwHIrGc22/gIEqYkt1cert5I33v8sNWdnkvJoD19HcqLwomhHz+vASlsg+ryf+zo/f/M/L/2ZV"
+      },
+      "realHeaders": {
+        "x-khronos": "1794807027",
+        "x-ladon": "avqU8w==",
+        "x-argus": "85T6ag=="
+      }
+    },
+    {
+      "url": "https://api5-normal-sinfonlineb.fqnovel.com/novel/player/multi_video_model/v1/?ac=wifi&channel=update_64&aid=8662&app_name=novelread&version_code=73932&version_name=7.3.9.32&device_platform=android&os=android&ssmix=a&device_type=25053RT47C&device_brand=Redmi&language=zh&os_api=36&os_version=16&manifest_version_code=73932&resolution=1280*2772&dpi=520&update_version_code=73932&host_abi=arm64-v8a&dragon_device_type=phone&pv_player=73932&compliance_status=0&need_personal_recommend=1&player_so_load=1&is_android_pad_screen=0&iid=4069772115858074&device_id=4069772115853978&cdid=5ecfd14f-e6e9-42f8-89ac-bb8e9ab842aa&ts=1794807027&_rticket=1794807027902",
+      "bodyBase64": "eyJiaXpfcGFyYW0iOnsiZGV0YWlsX3BhZ2VfdmVyc2lvbiI6MCwiZGV2aWNlX2xldmVsIjozLCJkaXNhYmxlX2RpZ2dfc3RhdCI6ZmFsc2UsIm5lZWRfYWxsX3ZpZGVvX2RlZmluaXRpb24iOnRydWUsIm5lZWRfbXA0X2FsaWduIjpmYWxzZSwidXNlX29zX3BsYXllciI6ZmFsc2UsInVzZV9zZXJ2ZXJfZG5zIjpmYWxzZSwidmlkZW9fcGxhdGZvcm0iOjEwMjR9LCJtaXhlZF92aWRlb19pZF9tYXAiOnsiMTAwNCI6WyI3NzAxNjgwNjc1OTc5NTQ1NjI1Il19fQ==",
+      "epoch": 1794807027,
+      "device": {
+        "iid": "4069772115858074",
+        "device_id": "4069772115853978",
+        "cdid": "5ecfd14f-e6e9-42f8-89ac-bb8e9ab842aa"
+      },
+      "randoms": [
+        287454020,
+        1432778632,
+        430619596
+      ],
+      "gorgonRand": 8090,
+      "heliosRand": 2810287296,
+      "counter": 1,
+      "naturalSelector": 15,
+      "naturalDigestHex": "ecd491b870602a69200600fbfdd35b445821f98b",
+      "protoHex": "0a102d4b4fca49750d433fb5ae2c226dcc56100a1888cd9192022204383636322a1034303639373732313135383533393738320936343636333737393442147630342e31302e30332d6d6c2d616e64726f696448808cd0405208000000000000000060e6d3d4af0d6a14ecd491b870602a69200600fbfdd35b445821f98b7206c6b5b51753a07a0e080210bee15418bee15428bee1548801e6d3d4af0d",
+      "headers": {
+        "x-gorgon": "84049a1f40015e9e069ff682bf5c54e5658ffdb278e9a2ef63fb",
+        "x-khronos": "1794807027",
+        "x-ladon": "avqU8w==",
+        "x-argus": "85T6ag==",
+        "x-helios": "wJSBp6sHjvC/+UB1XDpRVVgPOYIrKPQGX0TWc19ipL9qO0Uq",
+        "x-medusa": "9pT6at7ftaC64fcpzCFURtH5NjyIdwABD4rsu6oZAagAmMibkzmN5paa4hkX/dStbeMg8sJ9dF5Rh3yA6DBSw1UlyK+h6LzwG45CW7D1XFcptlNNd9B0UtYR9tCA7YKthPVpiJQyFf4or1yspKzuv1uNmIQad2KPz4iPgxPlkWC5kDc/d8bM7B1z7xSDjiAC8EgTFpdNwIP9B1rpAVUWE0/a8VhpYgCwWNnkvJoH19HdqLwgmhHz+vBStsAur3b+zo//9N/Lf2ZV"
+      },
+      "realHeaders": {
+        "x-khronos": "1794807027",
+        "x-ladon": "avqU8w==",
+        "x-argus": "85T6ag=="
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "listen_addr": ":18662",
+  "version": "1.0.0",
+  "auth_tokens": [
+    "replace-with-strong-random-token"
+  ],
+  "allow_insecure_no_auth": false,
+  "hmac_secret": "",
+  "hmac_max_skew_seconds": 300,
+  "ip_allowlist": [],
+  "trust_proxy_headers": false,
+  "token_qps": 20,
+  "token_concurrency": 8,
+  "ip_qps": 50,
+  "profile_sdk_version": "v04.10.03-ml-android",
+  "profile_file": "",
+  "profile_url": "",
+  "profile_refresh_interval": "10m",
+  "device_store_path": "data/device.json",
+  "default_resolve_timeout_ms": 15000,
+  "media_proxy_enabled": false,
+  "media_ticket_secret": "",
+  "media_ffmpeg_path": "ffmpeg",
+  "media_cache_dir": "data/media_cache"
+}

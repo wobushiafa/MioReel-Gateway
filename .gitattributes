@@ -1,0 +1,17 @@
+# Normalize line endings across Windows/macOS/Linux
+* text=auto eol=lf
+
+*.go        text eol=lf
+*.mod       text eol=lf
+*.sum       text eol=lf
+*.md        text eol=lf
+*.json      text eol=lf
+*.js        text eol=lf
+*.yml       text eol=lf
+*.yaml      text eol=lf
+Makefile    text eol=lf
+*.sh        text eol=lf
+*.service   text eol=lf
+
+*.bat       text eol=crlf
+*.ps1       text eol=crlf

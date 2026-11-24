@@ -1,0 +1,38 @@
+# Build artifacts & binaries
+/bin/
+/dist/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+coverage.out
+coverage.html
+
+# Runtime & local state
+data/*
+!data/.gitkeep
+server/data/
+
+# Local secrets & overrides
+.env
+.env.*
+!.env.example
+configs/*.local.json
+configs/gateway.json
+
+# Node / tooling
+node_modules/
+npm-debug.log*
+
+# Editor & OS files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
